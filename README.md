@@ -1,8 +1,8 @@
-# Welcome to Mayur Tembhare's Projects 👨‍💻
+# Welcome  👨‍💻
 
 ## About Me
 
-Hi there! I'm Mayur Tembhare, a Full Stack Developer with a strong background in Python, Django, and Angular. My work primarily focuses on building scalable, efficient applications, particularly in the fintech sector. I also have a keen interest in Machine Learning and AI system architecture, which I believe will be pivotal in shaping the future of technology.
+Hi there! I'm Mayur Tembhare, a Full Stack Developer with a strong background in Python, Django,   My work primarily focuses on building scalable, efficient applications. I also have a keen interest in Machine Learning and AI system architecture, which I believe will be pivotal in shaping the future of technology.
 
 ## Skills & Technologies
 
