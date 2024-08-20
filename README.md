@@ -1,16 +1,20 @@
-# 💫 About Me:
-Welcome to my GitHub! I'm a passionate Full Stack Developer with expertise in Python and Django for backend development, along with Angular for the frontend. I enjoy building scalable, high-performance applications, particularly in the fintech sector, and have a growing interest in Machine Learning and AI.
+# Welcome to Mayur Tembhare's Projects 👨‍💻
 
-🔍 What you'll find here:
+## About Me
 
-Backend Projects: Robust APIs and web applications built with Python, Django, and Flask.
-Frontend Projects: Responsive, user-centric interfaces using Angular, HTML5, CSS3, and JavaScript.
-Machine Learning: Projects exploring ML models and AI system architecture.
-Cloud Integrations: Work leveraging AWS, Azure, and Google Cloud services.
-DevOps Practices: Dockerized applications, CI/CD pipelines, and automated testing.
-I'm always exploring new technologies and am open to collaboration. Let's build something amazing together!
+Hi there! I'm Mayur Tembhare, a Full Stack Developer with a strong background in Python, Django, and Angular. My work primarily focuses on building scalable, efficient applications, particularly in the fintech sector. I also have a keen interest in Machine Learning and AI system architecture, which I believe will be pivotal in shaping the future of technology.
 
+## Skills & Technologies
 
+- **Backend Development:** Python, Django, Flask, Node.js
+- **Frontend Development:** Angular, HTML5, CSS3, JavaScript
+- **Database Management:** MySQL, MongoDB, PostgreSQL
+- **Cloud Services:** AWS, Azure, Google Cloud
+- **DevOps:** Docker, Jenkins, Git, CI/CD Pipelines
+- **Machine Learning:** Exploring ML models and AI architecture
+- **Other Tools:** GitHub, Jira, Docker Compose
+
+ 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/bCX38EX2) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mayur.tembhare.520) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/engr_mayur_tembhare_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mayur-tembhare) 
 
