@@ -1,5 +1,14 @@
 # 💫 About Me:
-👋 Hey there! I'm Mayur Tembhare, an enthusiastic developer passionate about leveraging technology to improve education. Currently, I'm deeply involved in an exciting EdTech project and I'm actively seeking collaboration opportunities in the realm of Lifelong Learning Management (LLM).<br><br>🚀 My expertise lies in crafting robust solutions using Laravel and Django frameworks, making web applications more efficient, scalable, and user-friendly. I'm constantly honing my skills in these technologies to stay at the forefront of development trends.<br><br>💡 Beyond coding, I'm delving into the world of Social Media Marketing, recognizing its pivotal role in reaching and engaging with users effectively. I believe in the power of combining technical proficiency with strategic marketing to create impactful solutions.<br><br>🤝 I'm always open to collaborating on innovative projects that aim to revolutionize education or any exciting ventures where my skills can contribute meaningfully. Let's connect and explore the possibilities!
+Welcome to my GitHub! I'm a passionate Full Stack Developer with expertise in Python and Django for backend development, along with Angular for the frontend. I enjoy building scalable, high-performance applications, particularly in the fintech sector, and have a growing interest in Machine Learning and AI.
+
+🔍 What you'll find here:
+
+Backend Projects: Robust APIs and web applications built with Python, Django, and Flask.
+Frontend Projects: Responsive, user-centric interfaces using Angular, HTML5, CSS3, and JavaScript.
+Machine Learning: Projects exploring ML models and AI system architecture.
+Cloud Integrations: Work leveraging AWS, Azure, and Google Cloud services.
+DevOps Practices: Dockerized applications, CI/CD pipelines, and automated testing.
+I'm always exploring new technologies and am open to collaboration. Let's build something amazing together!
 
 
 ## 🌐 Socials:
